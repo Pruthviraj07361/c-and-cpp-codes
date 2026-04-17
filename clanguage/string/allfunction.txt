@@ -1,0 +1,10 @@
+strcat()=concate
+strcmp compare two string
+srcpy() copy one string to anohter
+strlrn() find string length
+strrev() reverse
+strncat(s1,s2,n) concate only left most n charcater good hello n=2 goodhe
+strncmp(s1,s2,n) compare the left most charcters of two string  good hello n=2 heod
+strncpy(s1,s2,n) copies only the left most n charcter good god n=0 ture
+strstr find string uder string strstr(s,f)  hello he hello ni under he che ture
+strchr()    find charcter in string*() hello o in string ture
